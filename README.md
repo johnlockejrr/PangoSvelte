@@ -30,6 +30,12 @@ PangoSvelte extends **[PangoLine](https://github.com/mittagessen/pangoline)** (B
 
 ---
 
+## How it looks
+
+<img width="3836" height="2027" alt="image" src="https://github.com/user-attachments/assets/156a925e-baa8-4732-a7be-0d44e04c6fd3" />
+
+---
+
 ## Features (planned release)
 
 ### Layout & typography
